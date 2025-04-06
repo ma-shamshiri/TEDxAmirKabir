@@ -1,0 +1,397 @@
+// import testimonial from "./assets/images/testimonial.jpg";
+import amin from "./assets/images/amin.jpg";
+import aminBadge from "./assets/images/badge-webmaster.webp";
+import aminBG from "./assets/images/Amin.webp";
+import aminNewNoBG from "./assets/images/aminNoBG.png";
+import arash from "./assets/images/Arash.webp";
+import ark from "./assets/images/ARK.webp";
+import backgroundImg from "./assets/images/speakerbg.webp";
+import cafe from "./assets/images/Cafe.webp";
+import concordiaHero13 from "./assets/images/concordiaHero13.png";
+import container from "./assets/images/ReactContainer.webp";
+import dental from "./assets/images/Dental.webp";
+import divyanshu_jaggi from "./assets/images/divyanshu_jaggi.jpg";
+import event2023 from "./assets/images/event2023.webp";
+import event2023Pic1 from "./assets/images/Event2023Pic01.webp";
+import event2023Pic2 from "./assets/images/Event2023Pic02.webp";
+import event2023Pic3 from "./assets/images/Event2023Pic03.webp";
+import event2023Pic4 from "./assets/images/Event2023Pic04.webp";
+import event2023Pic5 from "./assets/images/Event2023Pic05.webp";
+import event2023Pic6 from "./assets/images/Event2023Pic06.webp";
+import event2024 from "./assets/images/event2024.jpg";
+import facebook01 from "./assets/images/facebook01.png";
+import facebook02 from "./assets/images/facebook02.png";
+import galleryImage1 from "./assets/images/galleryImage1.webp";
+import hallSalon from "./assets/images/hallsalon.webp";
+import hero1 from "./assets/images/hero1.jpeg";
+import hero2 from "./assets/images/heroPlateauMR.jpg";
+import heroimage from "./assets/images/heroimage.webp";
+import insta01 from "./assets/images/insta01.png";
+import insta02 from "./assets/images/insta02.png";
+import insta03 from "./assets/images/insta03.png";
+import insta04 from "./assets/images/insta04.png";
+import insta05 from "./assets/images/insta05.png";
+import insta06 from "./assets/images/insta06.png";
+import insta07 from "./assets/images/insta07.png";
+import insta08 from "./assets/images/insta08.png";
+import insta09 from "./assets/images/insta09.png";
+import insta10 from "./assets/images/insta10.png";
+import landing1 from "./assets/images/landing1.jpg";
+import landing2 from "./assets/images/landing2.jpg";
+import landing3 from "./assets/images/landing3.png";
+import landing4 from "./assets/images/landing4.jpg";
+import landing5 from "./assets/images/landing5.jpg";
+import mahim_rahman from "./assets/images/mahim_rahman.jpg";
+import mcgill from "./assets/images/mcgill.webp";
+import medad from "./assets/images/Medad.webp";
+import moksh_sood from "./assets/images/moksh_sood.jpg";
+import mountainsImage from "./assets/images/mountains.webp";
+import param_patel from "./assets/images/param_patel.png";
+import planetsImage from "./assets/images/planets.webp";
+import poulet from "./assets/images/Poulet.webp";
+import salon5 from "./assets/images/salon5.jpg";
+import speaker from "./assets/images/speaker.webp";
+import speakerBackgroundImage from "./assets/images/woman-at-stage1.webp";
+import sponsor from "./assets/images/sponsor.webp";
+import sponsorBackgroundImage from "./assets/images/sponsor-page-bg.webp";
+import starsImage from "./assets/images/stars.webp";
+import sunImage from "./assets/images/sun.webp";
+import teamMember from "./assets/images/teamMember.webp";
+import tedxWhite from "./assets/images/tedxWhite.png";
+import tedxBlack from "./assets/images/tedxBlack.png";
+import tickImage from "./assets/images/tick.svg";
+import unknownBoyProfile from "./assets/images/unknownBoyProfile.jpg";
+import unknownGirlProfile from "./assets/images/unknownGirlProfile.jpg";
+import unknownProfile from "./assets/images/unknown.webp";
+import unkown from "./assets/images/unknownGirlProfile.jpg";
+import vedant_gadhvi from "./assets/images/vedant_gadhvi.jpg";
+import youChooseLogo from "./assets/images/logo.png";
+
+import anthony_andreoli from "./assets/images/anthony_andreoli.jpg";
+import antonia_macris from "./assets/images/antonia_macris.jpg";
+import doneyli_de_jesus from "./assets/images/doneyli_de_jesus.jpg";
+import rashida_geddes from "./assets/images/rashida_geddes.png";
+import ysimer_gonzalez from "./assets/images/ysimer_gonzalez.jpg";
+
+import anthony_andreoli_NoBG from "./assets/images/anthony_andreoli_NoBG.png";
+import antonia_macris_NoBG from "./assets/images/antonia_macris_NoBG.png";
+import doneyli_de_jesus_NoBG from "./assets/images/doneyli_de_jesus_NoBG.png";
+import rashida_geddes_NoBG from "./assets/images/rashida_geddes_NoBG.png";
+import ysimer_gonzalez_NoBG from "./assets/images/ysimer_gonzalez_NoBG.png";
+
+import geoffrey_reid1 from "./assets/images/geoffrey_reid1.jpg";
+import geoffrey_reid2 from "./assets/images/geoffrey_reid2.jpg";
+import geoffrey_reid1_NoBG from "./assets/images/geoffrey_reid1_NoBG.png";
+import geoffrey_reid2_NoBG from "./assets/images/geoffrey_reid2_NoBG.png";
+
+import tedxconcordia from "./assets/images/tedxconcordia.jpg";
+
+import hoemHero1 from "./assets/images/hoemHero1.jpg";
+import hoemHero2 from "./assets/images/hoemHero2.jpg";
+
+import ali_karimi from "./assets/images/ali_karimi.png";
+import ali_mehrjoo from "./assets/images/ali_mehrjoo.jpg";
+import alireza_movahed from "./assets/images/alireza_movahed.png";
+import amin_shamshiri from "./assets/images/amin_shamshiri.jpg";
+import amirmahyar_teimouri from "./assets/images/amirmahyar_teimouri.jpg";
+import aref_shams from "./assets/images/aref_shams.jpg";
+import erfaneh_hosseini from "./assets/images/erfaneh_hosseini.jpg";
+import erfan_morshedzadeh from "./assets/images/erfan_morshedzadeh.jpg";
+import farzaneh_maghsoudi from "./assets/images/farzaneh_maghsoudi.png";
+import fatemeh_nasr from "./assets/images/fatemeh_nasr.jpg";
+import hanane_ghasemi from "./assets/images/hanane_ghasemi.jpg";
+import houra_bayaz from "./assets/images/houra_bayaz.jpg";
+import mohadese from "./assets/images/mohadese.jpg";
+import mohammadmahdi_salimi from "./assets/images/mohammadmahdi_salimi.jpg";
+import nadia_nadi from "./assets/images/nadia_nadi.jpg";
+import pirouz_malmali_tarazi from "./assets/images/pirouz_malmali_tarazi.jpg";
+import ramtin from "./assets/images/ramtin.jpg";
+import roya_mazrouee from "./assets/images/roya_mazrouee.jpg";
+import saeed_ranjbar_bafghi from "./assets/images/saeed_ranjbar_bafghi.jpg";
+import sara_chatraee from "./assets/images/sara_chatraee.jpg";
+import sepehr_javan from "./assets/images/sepehr_javan.png";
+import shakila_yavari from "./assets/images/shakila_yavari.jpg";
+import welcome from "./assets/videos/welcome.mp4";
+import black_card from "./assets/images/black_card.png";
+import info1 from "./assets/images/info1.webp";
+import info2 from "./assets/images/info2.webp";
+import info3 from "./assets/images/info3.webp";
+import homeSlider1 from "./assets/images/homeSlider1.jpg";
+import homeSlider2 from "./assets/images/homeSlider2.jpg";
+import homeSlider3 from "./assets/images/homeSlider3.png";
+import homeSlider4 from "./assets/images/homeSlider4.png";
+import homeSlider5 from "./assets/images/homeSlider5.png";
+import homeSlider6 from "./assets/images/homeSlider6.png";
+import homeSlider7 from "./assets/images/homeSlider7.png";
+import homeSlider8 from "./assets/images/homeSlider8.jpg";
+
+import pirouz_hanachi_NoBG from "./assets/images/pirouz_hanachi_NoBG.png";
+import hojat_mirzaee_NoBG from "./assets/images/hojat_mirzaee_NoBG.png";
+import mojtaba_jabbari_NoBG from "./assets/images/mojtaba_jabbari_NoBG.png";
+import maryam_jalali_NoBG from "./assets/images/maryam_jalali_NoBG.png";
+import nader_keshtkar_NoBG from "./assets/images/nader_keshtkar_NoBG.png";
+import hamidreza_pejman_NoBG from "./assets/images/hamidreza_pejman_NoBG.png";
+
+import speakerSlider1 from "./assets/images/speakerSlider1.png";
+import speakerSlider2 from "./assets/images/speakerSlider2.png";
+import speakerSlider3 from "./assets/images/speakerSlider3.jpg";
+import speakerSlider4 from "./assets/images/speakerSlider4.jpg";
+import speakerSlider5 from "./assets/images/speakerSlider5.png";
+import speakerSlider6 from "./assets/images/speakerSlider6.png";
+import speakerSlider7 from "./assets/images/speakerSlider7.png";
+import speakerSlider8 from "./assets/images/speakerSlider8.png";
+
+import hamidreza_pejman_cover from "./assets/images/hamidreza_pejman_cover.jpg";
+import hojjat_mirzaee_cover from "./assets/images/hojjat_mirzaee_cover.jpg";
+import hosna_esmailbeigi_cover from "./assets/images/hosna_esmailbeigi_cover.jpg";
+import maryam_jalali_cover from "./assets/images/maryam_jalali_cover.jpg";
+import mojtaba_jabbari_cover from "./assets/images/mojtaba_jabbari_cover.jpg";
+import nader_keshtkar_cover from "./assets/images/nader_keshtkar_cover.jpg";
+import pirouz_hanachi_cover from "./assets/images/pirouz_hanachi_cover.jpg";
+
+import marzieh_ebrahimi from "./assets/images/marzieh_ebrahimi.jpg";
+import javad_zarif from "./assets/images/javad_zarif.jpg";
+import nasim_biyarjomandy from "./assets/images/nasim_biyarjomandy.jpg";
+import mostafa_naghipourfar from "./assets/images/mostafa_naghipourfar.jpg";
+import farzaneh_shahrtash from "./assets/images/farzaneh_shahrtash.jpg";
+import vahid_rajabloo from "./assets/images/vahid_rajabloo.jpg";
+import sharmin_meymandinejad from "./assets/images/sharmin_meymandinejad.jpg";
+import shadi_azizi from "./assets/images/shadi_azizi.jpg";
+import mehrdad_oskouei from "./assets/images/mehrdad_oskouei.jpg";
+
+import eventPhoto1 from "./assets/images/eventPhoto1.jpg";
+import eventPhoto2 from "./assets/images/eventPhoto2.jpg";
+import eventPhoto3 from "./assets/images/eventPhoto3.jpg";
+import eventPhoto4 from "./assets/images/eventPhoto4.jpg";
+import eventPhoto5 from "./assets/images/eventPhoto5.jpg";
+import eventPhoto6 from "./assets/images/eventPhoto6.jpg";
+import eventPhoto7 from "./assets/images/eventPhoto7.jpg";
+import eventPhoto8 from "./assets/images/eventPhoto8.jpg";
+import eventPhoto9 from "./assets/images/eventPhoto9.jpg";
+import eventPhoto10 from "./assets/images/eventPhoto10.jpg";
+import eventPhoto11 from "./assets/images/eventPhoto11.jpg";
+import eventPhoto12 from "./assets/images/eventPhoto12.jpg";
+import eventPhoto13 from "./assets/images/eventPhoto13.jpg";
+import eventPhoto14 from "./assets/images/eventPhoto14.jpg";
+import eventPhoto15 from "./assets/images/eventPhoto15.jpg";
+import eventPhoto16 from "./assets/images/eventPhoto16.jpg";
+import eventPhoto17 from "./assets/images/eventPhoto17.jpg";
+import eventPhoto18 from "./assets/images/eventPhoto18.jpg";
+import eventPhoto19 from "./assets/images/eventPhoto19.jpg";
+import eventPhoto20 from "./assets/images/eventPhoto20.jpg";
+import eventPhoto21 from "./assets/images/eventPhoto21.jpg";
+import eventPhoto22 from "./assets/images/eventPhoto22.jpg";
+import eventPhoto23 from "./assets/images/eventPhoto23.jpg";
+import eventPhoto24 from "./assets/images/eventPhoto24.jpg";
+import eventPhoto25 from "./assets/images/eventPhoto25.jpg";
+import infoItem1 from "./assets/images/infoItem1.png";
+import infoItem2 from "./assets/images/infoItem2.jpg";
+import infoItem3 from "./assets/images/infoItem3.jpg";
+
+import azita_mohammadkarimi_teaser from "./assets/videos/azita_mohammadkarimi_teaser.mp4";
+import farzaneh_shahrtash_teaser from "./assets/videos/farzaneh_shahrtash_teaser.mp4";
+import nasim_biyarjomandy_teaser from "./assets/videos/nasim_biyarjomandy_teaser.mp4";
+import mostafa_naghipourfar_teaser from "./assets/videos/mostafa_naghipourfar_teaser.mp4";
+import shadi_azizi_teaser from "./assets/videos/shadi_azizi_teaser.mp4";
+import vahid_rajabloo_teaser from "./assets/videos/vahid_rajabloo_teaser.mp4";
+
+import azita_mohammadkarimi_cover from "./assets/images/azita_mohammadkarimi_cover.jpg";
+import farzaneh_shahrtash_cover from "./assets/images/farzaneh_shahrtash_cover.jpg";
+import nasim_biyarjomandy_cover from "./assets/images/nasim_biyarjomandy_cover.jpg";
+import mostafa_naghipourfar_cover from "./assets/images/mostafa_naghipourfar_cover.jpg";
+import shadi_azizi_cover from "./assets/images/shadi_azizi_cover.jpg";
+import vahid_rajabloo_cover from "./assets/images/vahid_rajabloo_cover.jpg";
+import poster2 from "./assets/images/poster2.jpg";
+
+export {
+    poster2,
+    azita_mohammadkarimi_cover,
+    farzaneh_shahrtash_cover,
+    nasim_biyarjomandy_cover,
+    mostafa_naghipourfar_cover,
+    shadi_azizi_cover,
+    vahid_rajabloo_cover,
+    azita_mohammadkarimi_teaser,
+    farzaneh_shahrtash_teaser,
+    nasim_biyarjomandy_teaser,
+    mostafa_naghipourfar_teaser,
+    shadi_azizi_teaser,
+    vahid_rajabloo_teaser,
+    infoItem1,
+    infoItem2,
+    infoItem3,
+    eventPhoto1,
+    eventPhoto2,
+    eventPhoto3,
+    eventPhoto4,
+    eventPhoto5,
+    eventPhoto6,
+    eventPhoto7,
+    eventPhoto8,
+    eventPhoto9,
+    eventPhoto10,
+    eventPhoto11,
+    eventPhoto12,
+    eventPhoto13,
+    eventPhoto14,
+    eventPhoto15,
+    eventPhoto16,
+    eventPhoto17,
+    eventPhoto18,
+    eventPhoto19,
+    eventPhoto20,
+    eventPhoto21,
+    eventPhoto22,
+    eventPhoto23,
+    eventPhoto24,
+    eventPhoto25,
+    mehrdad_oskouei,
+    shadi_azizi,
+    sharmin_meymandinejad,
+    vahid_rajabloo,
+    farzaneh_shahrtash,
+    mostafa_naghipourfar,
+    nasim_biyarjomandy,
+    javad_zarif,
+    marzieh_ebrahimi,
+    hamidreza_pejman_cover,
+    hojjat_mirzaee_cover,
+    hosna_esmailbeigi_cover,
+    maryam_jalali_cover,
+    mojtaba_jabbari_cover,
+    nader_keshtkar_cover,
+    pirouz_hanachi_cover,
+    speakerSlider1,
+    speakerSlider2,
+    speakerSlider3,
+    speakerSlider4,
+    speakerSlider5,
+    speakerSlider6,
+    speakerSlider7,
+    speakerSlider8,
+    pirouz_hanachi_NoBG,
+    hojat_mirzaee_NoBG,
+    mojtaba_jabbari_NoBG,
+    maryam_jalali_NoBG,
+    nader_keshtkar_NoBG,
+    hamidreza_pejman_NoBG,
+    homeSlider1,
+    homeSlider2,
+    homeSlider3,
+    homeSlider4,
+    homeSlider5,
+    homeSlider6,
+    homeSlider7,
+    homeSlider8,
+    info1,
+    info2,
+    info3,
+    black_card,
+    welcome,
+    ali_karimi,
+    ali_mehrjoo,
+    alireza_movahed,
+    amin_shamshiri,
+    amirmahyar_teimouri,
+    aref_shams,
+    erfaneh_hosseini,
+    erfan_morshedzadeh,
+    farzaneh_maghsoudi,
+    fatemeh_nasr,
+    hanane_ghasemi,
+    houra_bayaz,
+    mohadese,
+    mohammadmahdi_salimi,
+    nadia_nadi,
+    pirouz_malmali_tarazi,
+    ramtin,
+    roya_mazrouee,
+    saeed_ranjbar_bafghi,
+    sara_chatraee,
+    sepehr_javan,
+    shakila_yavari,
+    hoemHero1,
+    hoemHero2,
+    tedxconcordia,
+    geoffrey_reid1,
+    geoffrey_reid2,
+    geoffrey_reid1_NoBG,
+    geoffrey_reid2_NoBG,
+    anthony_andreoli,
+    antonia_macris,
+    doneyli_de_jesus,
+    rashida_geddes,
+    ysimer_gonzalez,
+    anthony_andreoli_NoBG,
+    antonia_macris_NoBG,
+    doneyli_de_jesus_NoBG,
+    rashida_geddes_NoBG,
+    ysimer_gonzalez_NoBG,
+    amin,
+    aminBadge,
+    aminBG,
+    aminNewNoBG,
+    arash,
+    ark,
+    backgroundImg,
+    cafe,
+    concordiaHero13,
+    container,
+    dental,
+    divyanshu_jaggi,
+    event2023,
+    event2023Pic1,
+    event2023Pic2,
+    event2023Pic3,
+    event2023Pic4,
+    event2023Pic5,
+    event2023Pic6,
+    event2024,
+    facebook01,
+    facebook02,
+    galleryImage1,
+    hallSalon,
+    hero1,
+    hero2,
+    heroimage,
+    insta01,
+    insta02,
+    insta03,
+    insta04,
+    insta05,
+    insta06,
+    insta07,
+    insta08,
+    insta09,
+    insta10,
+    landing1,
+    landing2,
+    landing3,
+    landing4,
+    landing5,
+    mahim_rahman,
+    mcgill,
+    medad,
+    moksh_sood,
+    mountainsImage,
+    param_patel,
+    planetsImage,
+    poulet,
+    salon5,
+    speaker,
+    speakerBackgroundImage,
+    sponsor,
+    sponsorBackgroundImage,
+    starsImage,
+    sunImage,
+    teamMember,
+    tedxBlack,
+    tedxWhite,
+    tickImage,
+    unknownBoyProfile,
+    unknownGirlProfile,
+    unknownProfile,
+    unkown,
+    vedant_gadhvi,
+    youChooseLogo,
+};
